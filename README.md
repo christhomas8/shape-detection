@@ -1,5 +1,5 @@
 # shape-detection
-OpenCV program for detecting circles in a photo.
+OpenCV program for detecting and marking circles in a photo.
 
 Input image:
 ![bw](https://user-images.githubusercontent.com/89619015/132936222-b0b423e8-ac83-41a2-ba1c-283876f916c4.jpeg)
